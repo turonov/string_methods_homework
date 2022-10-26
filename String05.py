@@ -7,6 +7,6 @@ def main(s):
         str: answer
     """
     
-    return s.isupper()
+    return s.upper()
 
 print(main("hello word"))    
