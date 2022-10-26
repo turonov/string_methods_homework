@@ -7,6 +7,6 @@ def main(s):
         str: answer
     """
     
-    return s
+    return s.index("x")
 
-print(main("menda iphon x bor".count("x")))    
+print(main("menda iphon x bor"))    
