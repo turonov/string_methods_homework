@@ -7,6 +7,6 @@ def main(s):
         bool: answer
     """
     
-    return s
+    return s.isupper()
 
-print(main("SALOM DUNYOd".isupper()))    
+print(main("SALOM DUNYOd"))    
