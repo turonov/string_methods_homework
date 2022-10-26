@@ -7,6 +7,6 @@ def main(s):
         int: answer
     """
     
-    return s
+    return s.index("a")
 
-print(main("salom dunyo".index("a")))    
+print(main("salom dunyo"))    
