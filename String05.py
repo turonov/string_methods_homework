@@ -9,4 +9,4 @@ def main(s):
     
     return s
 
-print("SALOM DUNYO".isupper())    
+print(main("HELLO WORD".isupper()))    
