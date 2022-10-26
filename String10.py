@@ -7,4 +7,6 @@ def main(s):
         str: answer
     """
     
-    return
+    return s
+
+print(main("menda iphon x bor".count("x")))    
