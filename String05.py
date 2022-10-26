@@ -9,4 +9,4 @@ def main(s):
     
     return s.isupper()
 
-print(main("HELLO WORD"))    
+print(main("hello word"))    
