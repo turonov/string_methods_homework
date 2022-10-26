@@ -7,6 +7,6 @@ def main(s):
         str: answer
     """
     
-    return s
+    return s.title()
 
-print(main("hello Word developer".title()))    
+print(main("hello Word developer"))    
