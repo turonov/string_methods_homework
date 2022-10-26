@@ -7,6 +7,6 @@ def main(s):
         bool: answer
     """
     
-    return s
+    return s.islower()
 
-print(main("salom dunyo".islower()))    
+print(main("salom dunyo"))    
