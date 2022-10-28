@@ -7,6 +7,6 @@ def main(s):
         str: answer
     """
     
-    return s.index("i")
+    return s.index("x")
 
-print(main("menda iphon x bor"))    
+print(main("mxenda iphon bor"))    
